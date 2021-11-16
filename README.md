@@ -6,3 +6,5 @@ Moderne Computeranwendungen verarbeiten nicht nur Daten, sondern sind in einem h
 
 # Fullscreen
 In der Übung wurden nochmal alles von der ersten Klasse wiederholt und aufgefrischt.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
